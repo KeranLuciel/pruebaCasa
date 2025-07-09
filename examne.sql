@@ -1,6 +1,6 @@
 -- Crear base de datos
 CREATE DATABASE IF NOT EXISTS examen DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
-USE examen;
+USE uns;
 
 -- Tabla Origen
 CREATE TABLE IF NOT EXISTS Origen (
